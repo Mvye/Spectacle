@@ -3,6 +3,11 @@ Original App Design Project - README
 
 # Spectacle
 
+## Final Demo
+
+Show casing viewing episode descriptions, commenting on episodes, and live chat.
+<img src='SpectacleSprint4Demo1.gif' title='Video Walkthrough 1' width='600' alt='Video Walkthrough 1' />
+
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
